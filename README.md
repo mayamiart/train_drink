@@ -10,5 +10,5 @@
 - [Telegram-канал проекта](https://t.me/pchppoezdnalivator)
 - [Проектное предложение](Проектное_предложение_ПЦП_2026_Христиченко,_Маямсин,_Судгаймер.pdf)
 - [Build Of Maretials]()
-- [CAD Models]()
+- [CAD Models](CADmodels)
 - [Codes](Codes)
