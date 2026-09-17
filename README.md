@@ -9,6 +9,6 @@
 ## Материалы проекта
 - [Telegram-канал проекта](https://t.me/pchppoezdnalivator)
 - [Проектное предложение](Проектное_предложение_ПЦП_2026_Христиченко,_Маямсин,_Судгаймер.pdf)
-- [Bill Of Maretials]()
+- [Bill of Maretials](BillofMaterials.md)
 - [CAD Models](CADmodels)
 - [Codes](Codes)
